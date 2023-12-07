@@ -72,5 +72,5 @@ Curso: Engenharia de Computação
 
 Disciplina: Linguagem de Descrição de Hardware
 
-Professora: Rodrigo Vinícius Mendonça Pereira.
+Professor: Rodrigo Vinícius Mendonça Pereira.
 
